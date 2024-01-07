@@ -1,3 +1,11 @@
+## 推荐参数
+```
+./bashfuscator -f input.sh -o output.sh -s 1 --no-file-write --full-ascii-strings
+```
+## 注意
+似乎某些VPS上, 按照官方的指南安装不成功.
+我在某个LXC的纯ipv6的小鸡上安装成功. 在Cloudcone小鸡上安装成功.
+
 ![Bashfuscator logo](img/bashfuscator_logo.png)
 
 # Bashfuscator
